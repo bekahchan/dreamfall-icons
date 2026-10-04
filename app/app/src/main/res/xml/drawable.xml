@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item drawable="icon_phone" />
+    <item drawable="icon_camera" />
+    <item drawable="icon_messages" />
+    <item drawable="icon_photos" />
+    <item drawable="icon_file" />
+    <item drawable="icon_music" />
+    <item drawable="icon_clock" />
+    <item drawable="icon_mail" />
+    <item drawable="icon_settings" />
+    <item drawable="icon_weather" />
+    <item drawable="icon_maps" />
+    <item drawable="icon_notes" />
+</resources>
