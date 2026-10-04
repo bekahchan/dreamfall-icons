@@ -17,6 +17,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+            <meta-data android:name="com.anddoes.launcher.THEME" android:resource="@xml/appfilter" />
+        <meta-data android:name="com.teslacoilsw.launcher.THEME" android:resource="@xml/appfilter" />
+        <meta-data android:name="com.novalauncher.THEME" android:resource="@xml/appfilter" />
+        <meta-data android:name="com.actionlauncher.THEME" android:resource="@xml/appfilter" />
     </application>
 
 </manifest>
